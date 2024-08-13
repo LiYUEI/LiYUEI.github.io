@@ -1,15 +1,18 @@
-import { defineUserConfig } from "vuepress";
+import {defineUserConfig} from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/",
+    base: "/",
 
-  lang: "zh-CN",
-  title: "博客演示",
-  description: "vuepress-theme-hope 的博客演示",
+    lang: "zh-CN",
 
-  theme,
+    title: "Mr.Li",
+    description: "Mr.Li博客",
+    theme,
 
-  // 和 PWA 一起启用
-  // shouldPrefetch: false,
+    // 自定义logo
+    head: [["link", {rel: "icon", href: "/logo3.png",}]],
+
+    // 和 PWA 一起启用
+    // shouldPrefetch: false,
 });

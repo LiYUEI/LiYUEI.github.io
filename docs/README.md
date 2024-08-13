@@ -2,16 +2,18 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
-heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+title: 首页
+tagline: 脚踏实地，仰望星空
+heroImage:
+heroText: Mr.Li
+heroFullScreen: false
+bgImage: /assets/images/bg2.jpg
+
 projects:
   - icon: project
-    name: 项目名称
-    desc: 项目详细描述
-    link: https://你的项目链接
+    name: LiYUEI.github.io
+    desc: 个人技术文档Repo
+    link: https://github.com/LiYUEI/LiYUEI.github.io
 
   - icon: link
     name: 链接名称
@@ -38,11 +40,9 @@ projects:
     desc: 自定义详细介绍
     link: https://你的自定义链接
 
-footer: 自定义你的页脚文字
+footer: All Rights Reserved. Mr.Li 版权所有 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">友情链接</a>
+copyright: false
 ---
 
-这是一个博客主页的案例。
+以下是博客主页的正文。
 
-要使用此布局，你应该在页面前端设置 `layout: BlogHome` 和 `home: true`。
-
-相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home.html)。
