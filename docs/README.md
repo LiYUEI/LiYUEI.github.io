@@ -16,9 +16,9 @@ projects:
     link: https://github.com/LiYUEI/LiYUEI.github.io
 
   - icon: link
-    name: 链接名称
-    desc: 链接详细描述
-    link: https://链接地址
+    name: 常用网站
+    desc: 整理在开发中常用的网站
+    link: /jottings/site
 
   - icon: book
     name: 书籍名称
