@@ -52,6 +52,6 @@ export default navbar([
     {
         text: "随笔",
         icon: "/assets/icon/light-bulb.png",
-        link: "/jottings/",
+        link: "/10.随笔短记/",
     },
 ]);

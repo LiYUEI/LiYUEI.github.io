@@ -18,7 +18,7 @@ projects:
   - icon: link
     name: 常用网站
     desc: 整理在开发中常用的网站
-    link: /jottings/site
+    link: /10.随笔短记/网站推荐
 
   - icon: book
     name: 书籍名称

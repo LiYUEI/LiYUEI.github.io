@@ -1,5 +1,5 @@
 ---
-title: 随笔
+title: 随笔短记
 index: false
 icon: laptop-code
 ---
