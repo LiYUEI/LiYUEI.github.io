@@ -8,5 +8,5 @@ tag:
   - MPI
 ---
 
-# 使用mimalloc优化内存分配
+# MPI使用指南
 
